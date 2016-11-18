@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<users>
+  <user>
+    <id>1</id>
+    <username>petep</username>
+    <firstname>Pete</firstname>
+    <lastname>Parkkonen</lastname>
+    <country>Finland</country>
+    <hash>47bce5c74f589f4867dbd57e9ca9f808</hash>
+    <hash256>ba5eedbc8392cb62bc06507d815e903c9bf3697aae3ba58f4cfe73934ae621e3</hash256>
+  </user>
+  <user>
+    <id>2</id>
+    <username>teppot</username>
+    <firstname>Teppo</firstname>
+    <lastname>Testaaja</lastname>
+    <country>Finland</country>
+    <hash>123</hash>
+    <hash256>9517237ce8d60526d7f511fc2a549785c70b41f03323da5d5f60654149992b38</hash256>
+  </user>
+  <user>
+    <id>3</id>
+    <username>esas</username>
+    <firstname>Esa</firstname>
+    <lastname>Salmikangas</lastname>
+    <country>Finland</country>
+    <hash>80ad0b9fa48a74fe86a9c8ee665d96bb</hash>
+    <hash256>345</hash256>
+  </user>
+</users>

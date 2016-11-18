@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<guestbook>
+  <entry name="Jussi" comment="Hello Kaikki JYP-fanit!" date="31.10.2016" />
+  <entry name="Kalle" comment="Hello Kaikki Kärppä-fanit!" date="11.11.2016" />
+  <entry name="Mikael" comment="Jaska ei tiedä mitään!" date="9.11.2016" />
+  <entry name="Saara" comment="X-factor suxs" date="9.11.2016" />
+  <entry name="kimmo" comment="juu" date="17.11.2016" />
+  <entry name="kimmo" comment="juu" date="17.11.2016" />
+  <entry name="juuh" comment="jee" date="17.11.2016" />
+  <entry name="hfj" comment="jgfkjgkh" date="17.11.2016" />
+</guestbook>
